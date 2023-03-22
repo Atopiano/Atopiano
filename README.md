@@ -1,1 +1,2 @@
-![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Atopiano%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20and%20hope%20you%20enjoy!&descAlignY=53&descAlign=73)
+
