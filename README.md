@@ -25,9 +25,3 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 [![Atopiano's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atopiano&show_icons=true&theme=radical)]
-
-<!-- ## ✏️ Now -->
-<!-- <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/i-am-not-kangjik/count.svg" />
-</p> -->
