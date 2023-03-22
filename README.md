@@ -1,7 +1,9 @@
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Atopiano%20Github&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Welcome%20and%20hope%20you%20enjoy!&descAlignY=53&descAlign=73)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Atopiano%20Github&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Welcome%20and%20hope%20you%20enjoy!&descAlignY=53&descAlign=70)
 
+  ![Atopiano's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atopiano&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atopiano&show_icons=true&theme=radical)
+  
 ## 💻 TECH STACK
 ### 🕓 Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -24,6 +26,6 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-![Atopiano's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atopiano&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atopiano&show_icons=true&theme=radical)
+
   
   
