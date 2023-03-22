@@ -24,4 +24,6 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-[![Atopiano's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atopiano&show_icons=true&theme=radical)]
+![Atopiano's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atopiano&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atopiano&show_icons=true&theme=radical)
+  
+  
